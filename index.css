@@ -280,12 +280,15 @@
   .footer{
     background: #000;
     text-align: center;
-   
+    margin-top: 50px;
   }
   .footer span{
     color: #00aaff;
   }
   @media (max-width: 700px) {
+    .footer{
+      margin-top: 0;
+    }
     .player,
     .playlist {
       width: 300px;
