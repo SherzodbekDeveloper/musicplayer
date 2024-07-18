@@ -388,4 +388,8 @@
     .player,
     .playlist {
       width: 100%;
-    }}
+    }
+    #playlist-songs{
+      height: 100%;
+    }
+  }
