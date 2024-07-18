@@ -396,7 +396,9 @@
     #playlist-songs{
       width: 100%;
     }
-    
+    .playlist{
+      padding: 5px
+    }
     
   
   };
