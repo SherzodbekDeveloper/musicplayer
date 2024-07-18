@@ -12,8 +12,8 @@
     font-size: var(--root-font-size);
   
     /* font-families */
-    --font-headline: cursive;
-    --font-family: cursive;
+    --font-headline: sans-serif;
+    --font-family: sans-serif;
   }
   
   *,
