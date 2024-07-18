@@ -158,6 +158,7 @@
     outline-color: var(--highlight-color);
     text-align: center;
     transform: scale(1);
+    transition: .1s;
   }
   
   .playlist-song {
